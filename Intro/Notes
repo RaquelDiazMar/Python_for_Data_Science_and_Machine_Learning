@@ -1,0 +1,37 @@
+### Main responsibilities:
+ -> ask questionsto begin the discovery process;
+ -> acquire data;
+ -> process and clean the data;
+ -> integrate and store the data;
+ -> data investigation/exploratory data analysis (EDA);
+ -> pick one or more models and algorithms;
+ -> apply data science techniques: machine learning, statistical modeling, and artificial intelligence;
+ -> measure and improve results;
+ -> present final result to stakeholders;
+ -> make adjustments based on feedback;
+ -> repeat the process to solve a new problem.
+ 
+
+### Data Science Project Lifecycle:
+ -> Project planning: problem to be solved or data to be explored;
+ -> Data collection: it is recommended to collect data via web scraper but there are Kaggle or Google datasets available;
+ -> Data cleaning: to make the data usable for models;
+ -> EDA: highlight trends with visuals to make them stand out;
+ -> Model building: try different models to see which one works bestfor the specific case;
+ -> Models deployment (optional): to make the model useful to someone as an API endpoint.
+ 
+ 
+### Main problems to solve:
+ -> Regression
+ -> Classification
+ -> Clustering
+ 
+ 
+ ### Data Science five-stage life-cycle:
+  -> Capture: data acquisition, data entry, signal reception, data extraction;
+  -> Maintain: data warehousing, data cleansing, data staging, data processing, data architecture;
+  -> Process: data minig, clustering/classification, data modeling, data summarization;
+  -> Communicate: data reporting, data visualization, business intelligence, decision making;
+  -> analyze: exploratory/confirmatory, predictive analysis, regression, text mining, qualitative analysis.
+  
+  
